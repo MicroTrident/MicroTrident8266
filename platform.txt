@@ -6,7 +6,7 @@
 # https://github.com/arduino/Arduino/wiki/Arduino-IDE-1.5---3rd-party-Hardware-specification
 
 name=MicroTrident8266 Boards
-version=2.4.1-rc3
+version=2.4.1-rc1
 
 
 

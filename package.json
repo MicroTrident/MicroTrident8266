@@ -2,5 +2,5 @@
     "name": "framework-arduinoespressif8266",
     "description": "TridentTD's Arduino Wiring-based Framework (ESP8266 Core)",
     "url": "https://github.com/MicroTrident8266/Arduino",
-    "version": "2.4.1-rc3"
+    "version": "2.4.1-rc1"
 }
